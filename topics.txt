@@ -1,0 +1,2 @@
+Prototype a budget app that not only tracks expenses but also gives a basic prediction
+(" At this rate, you will overspend your budget by the 20th of the month")
